@@ -50,7 +50,7 @@ img{
 }
 #msg{
     background-color: #081b31;
-    color: white;
+    color: rgb(199, 195, 195);
     font-size: 2rem;
     display: inline;
     padding: 1rem;
