@@ -77,7 +77,7 @@ git clone https://github.com/suyXcode/RockPaperScissors.git
     5. Create a Pull Request ✔️
  
 
-## 👨‍💻 Author(Froked From Another Repo)
+## 👨‍💻 Co - Author(Froked From Another Repo)
 
 **Suyash Singh**
 
