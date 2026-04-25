@@ -79,11 +79,7 @@ git clone https://github.com/suyXcode/RockPaperScissors.git
 
 ## 👨‍💻 Co - Author(Froked From Another Repo)
 
-**Suyash Singh**
-
-[![GitHub](https://img.shields.io/badge/GitHub-suyXcode-black?style=for-the-badge&logo=github)](https://github.com/suyXcode)
-
+**Aun Ashraf**
 🎓 B.Tech CSE  
-💡 Data Science | Machine Learning | Web Development  
 🚀 Passionate about building practical and scalable applications
  
