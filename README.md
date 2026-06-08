@@ -76,10 +76,3 @@ git clone https://github.com/suyXcode/RockPaperScissors.git
     4. Push: git push origin feature/my-feature
     5. Create a Pull Request ✔️
  
-
-## 👨‍💻 Co - Author(Froked From Another Repo)
-
-**Aun Ashraf**
-🎓 B.Tech CSE  
-🚀 Passionate about building practical and scalable applications
- 
